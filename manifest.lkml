@@ -11,6 +11,6 @@ application: data-dictionary {
 }
 
 application: localhost {
-  label: "Local Development"
-  url: "https://localhost:8080/bundle.js"
+  label: "Cohort (Development)"
+  url: "https://localhost:1234/index.js"
 }
