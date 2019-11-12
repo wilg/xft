@@ -19,3 +19,8 @@ application: lqa-dev {
   label: "LQA-dev"
   url: "https://localhost:1234/build/bundle.js"
 }
+
+application: cohort-dev {
+  label: "Cohort (Development)"
+  url: "https://localhost:1234/index.js"
+}
