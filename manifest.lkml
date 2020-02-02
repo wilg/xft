@@ -24,3 +24,8 @@ application: cohort-dev {
   label: "Cohort (Development)"
   url: "https://localhost:1234/index.js"
 }
+
+application: dashboard-template {
+  label: "Data Dictionary"
+  file: "dashboard-template.js"
+}
