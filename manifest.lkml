@@ -26,6 +26,6 @@ application: cohort-dev {
 }
 
 application: dashboard-template {
-  label: "Data Dictionary"
+  label: "Dashboard Template"
   file: "dashboard-template.js"
 }
