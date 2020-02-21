@@ -17,7 +17,7 @@ application: localhost {
 
 application: lqa-dev {
   label: "LQA-dev"
-  url: "https://localhost:1234/build/bundle.js"
+  url: "https://develop.open.extension.looker.com:1234/build/bundle.js"
 }
 
 application: cohort-dev {

@@ -1,4 +1,4 @@
-connection: "thelook"
+connection: "thelook_mysql"
 
 # include: "my_dashboard.dashboard.lookml"   # include a LookML dashboard called my_dashboard
 
