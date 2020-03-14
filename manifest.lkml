@@ -12,7 +12,7 @@ application: data-dictionary {
 
 application: localhost {
   label: "Localhost"
-  url: "https://localhost:8080/bundle.js"
+  url: "http://localhost:8080/bundle.js"
 }
 
 application: lqa-dev {
