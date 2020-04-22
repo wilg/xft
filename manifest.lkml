@@ -5,8 +5,8 @@ application: button {
   file: "button.js"
 }
 
-application: data-dictionary {
-  label: "Data Dictionary"
+application: lqa-stage {
+  label: "LQA Stage"
   file: "bundle.js"
 }
 
