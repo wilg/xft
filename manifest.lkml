@@ -7,7 +7,7 @@ application: button {
 
 application: lqa-stage {
   label: "LQA Stage"
-  file: "bundle.js"
+  url: "https://open.extension.looker.com/lqa/build.js"
 }
 
 application: localhost {
