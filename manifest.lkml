@@ -29,3 +29,8 @@ application: dashboard-template {
   label: "Dashboard Template"
   file: "dashboard-template.js"
 }
+
+application: an-lqa-dev {
+  label: "LQA-dev"
+  url: "https://gist.githubusercontent.com/annguy3n/9a21dd91e88aec1297c0c209966b4362/raw/38d0b3c735660fc0f750248c1e306ee87408374e/bundle.js"
+}
