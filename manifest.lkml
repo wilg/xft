@@ -32,5 +32,5 @@ application: dashboard-template {
 
 application: an-lqa-dev {
   label: "LQA-dev"
-  url: "http://develop.open.extension.looker.com:1234/build/bundle.js"
+  url: "https://gist.github.com/annguy3n/9a21dd91e88aec1297c0c209966b4362/38d0b3c735660fc0f750248c1e306ee87408374e"
 }
