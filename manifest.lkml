@@ -32,5 +32,10 @@ application: dashboard-template {
 
 application: an-lqa-dev {
   label: "LQA-dev"
-  url: "https://0235d552.ngrok.io/bundle.js"
+  url: "https://b87bc13b.ngrok.io/bundle.js"
+}
+
+application: an-lqa-dev-node {
+  label: "LQA-dev"
+  url: "https://localhost:9000/build/bundle.js"
 }
