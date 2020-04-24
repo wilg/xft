@@ -29,3 +29,8 @@ application: dashboard-template {
   label: "Dashboard Template"
   file: "dashboard-template.js"
 }
+
+application: an-lqa-dev {
+  label: "LQA-dev"
+  url: "http://develop.open.extension.looker.com:1234/build/bundle.js"
+}
