@@ -32,5 +32,5 @@ application: dashboard-template {
 
 application: an-lqa-dev {
   label: "LQA-dev"
-  url: "https://gist.github.com/annguy3n/9a21dd91e88aec1297c0c209966b4362/38d0b3c735660fc0f750248c1e306ee87408374e"
+  url: "https://gist.githubusercontent.com/annguy3n/9a21dd91e88aec1297c0c209966b4362/raw/38d0b3c735660fc0f750248c1e306ee87408374e/bundle.js"
 }
