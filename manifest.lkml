@@ -16,5 +16,6 @@ application: lqa-dev {
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["test"]
+    global_user_attributes: ["last_name"]
   }
 }
