@@ -13,4 +13,8 @@ application: lqa-stage {
 application: lqa-dev {
   label: "LQA-dev"
   url: "https://develop.open.extension.looker.com:1234/build/bundle.js"
+  entitlements: {
+    local_storage: yes
+    scoped_user_attributes: ["test"]
+  }
 }
