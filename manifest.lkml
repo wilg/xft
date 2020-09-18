@@ -5,8 +5,7 @@ application: lqa-dev {
   url: "https://develop.open.extension.looker.com:1234/build/bundle.js"
   entitlements: {
     local_storage: yes
-    scoped_user_attributes: ["test"]
-    global_user_attributes: ["last_name"]
+    scoped_user_attributes: ["last_selected_topic"]
   }
 }
 
