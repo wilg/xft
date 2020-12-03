@@ -18,6 +18,15 @@ application: lqa-dev-contextual-suggestions {
   }
 }
 
+application: lqa-sandboxed {
+  label: "LQA Sandboxed"
+  url: "https://closed.extension.looker.com:1234/build/bundle.js"
+  entitlements: {
+    local_storage: yes
+    scoped_user_attributes: ["last_selected_topic"]
+  }
+}
+
 application: lqa-prod {
   label: "LQA"
   url: "https://open.extension.looker.com/lqa/bundle.js"
