@@ -8,6 +8,7 @@ application: lqa-dev {
     scoped_user_attributes: ["last_selected_topic"]
     core_api_methods: ["lookml_model_explore", "create_query", "run_query"]
     new_window: yes
+    new_window_external_urls: ["https://docs.google.com"]
   }
 }
 
@@ -19,6 +20,7 @@ application: lqa-dev-contextual-suggestions {
     scoped_user_attributes: ["last_selected_topic"]
     core_api_methods: ["lookml_model_explore", "create_query", "run_query"]
     new_window: yes
+    new_window_external_urls: ["https://docs.google.com"]
   }
 }
 
@@ -30,6 +32,7 @@ application: lqa-sandboxed {
     scoped_user_attributes: ["last_selected_topic"]
     core_api_methods: ["lookml_model_explore", "create_query", "run_query"]
     new_window: yes
+    new_window_external_urls: ["https://docs.google.com"]
   }
 }
 
