@@ -6,6 +6,7 @@ application: lqa-dev {
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["last_selected_topic"]
+    core_api_methods: ["lookml_model_explore"]
   }
 }
 
@@ -15,6 +16,7 @@ application: lqa-dev-contextual-suggestions {
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["last_selected_topic"]
+    core_api_methods: ["lookml_model_explore"]
   }
 }
 
@@ -24,6 +26,7 @@ application: lqa-sandboxed {
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["last_selected_topic"]
+    core_api_methods: ["lookml_model_explore"]
   }
 }
 
