@@ -14,7 +14,7 @@ application: lqa-dev {
 
 application: lqa-dev-stereo-alpha {
   label: "LQA-dev (stereo-alpha)"
-  url: "https://open.extension.looker.com/stereo-alpha/bundle.js"
+  url: "https://static-a.lookercdn.com/extensions/lqa/stereo-alpha/bundle.js"
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["last_selected_topic"]
