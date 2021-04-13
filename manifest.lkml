@@ -12,6 +12,18 @@ application: lqa-dev {
   }
 }
 
+application: lqa-dev-stereo-alpha {
+  label: "LQA-dev (stereo-alpha)"
+  url: "https://open.extension.looker.com/stereo-alpha/bundle.js"
+  entitlements: {
+    local_storage: yes
+    scoped_user_attributes: ["last_selected_topic"]
+    core_api_methods: ["lookml_model_explore", "create_query", "run_query"]
+    new_window: yes
+    new_window_external_urls: ["https://docs.google.com"]
+  }
+}
+
 application: lqa-dev-contextual-suggestions {
   label: "LQA-dev (contextual suggestions)"
   url: "https://open.extension.looker.com/contextual-suggestions/bundle.js"
